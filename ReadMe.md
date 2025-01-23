@@ -10,12 +10,9 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 - Assist the canteen staff in managing orders more efficiently.  
 
 **Orderscape** ensures timely meals while maintaining health and safety regulations, making school life more productive and enjoyable.  
-![Orderscape Home Screen]![319303728_1761440417564364_6398826655484515487_n](https://github.com/user-attachments/assets/50fd4d90-b937-407c-90f4-9a4a8a55bac6)
+
+![319303728_1761440417564364_6398826655484515487_n](https://github.com/user-attachments/assets/50fd4d90-b937-407c-90f4-9a4a8a55bac6)
 [![Demo Video]([](https://github.com/user-attachments/assets/9e45c5de-e2c1-4db0-994d-c9265fa438da))]([https://www.youtube.com/watch?v=your-video-id](https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9))
-
-[Watch the demo video]
-
-[Watch the Sample video]https://github.com/user-attachments/assets/09180229-24ae-47da-9d2b-e3749416771b
 ---
 
 ## 🌟 Key Features  
