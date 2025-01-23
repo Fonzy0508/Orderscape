@@ -1,3 +1,4 @@
+
 # 📱 Orderscape  
 Effortlessly reserve meals, drinks, and desserts at the STI Canteen!  
 
@@ -10,6 +11,7 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 
 **Orderscape** ensures timely meals while maintaining health and safety regulations, making school life more productive and enjoyable.  
 
+https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9
 ---
 
 ## 🌟 Key Features  
@@ -48,4 +50,12 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/your-username/orderscape.git  
+
+
+
+
+
+
+https://github.com/user-attachments/assets/09180229-24ae-47da-9d2b-e3749416771b
+
 
