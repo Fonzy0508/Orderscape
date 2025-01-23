@@ -11,7 +11,8 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 
 **Orderscape** ensures timely meals while maintaining health and safety regulations, making school life more productive and enjoyable.  
 
-https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9
+[Watch the demo video]https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9
+[Watch the Sample video]https://github.com/user-attachments/assets/09180229-24ae-47da-9d2b-e3749416771b
 ---
 
 ## 🌟 Key Features  
@@ -56,6 +57,6 @@ https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9
 
 
 
-https://github.com/user-attachments/assets/09180229-24ae-47da-9d2b-e3749416771b
+
 
 
