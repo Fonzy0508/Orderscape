@@ -2,6 +2,7 @@
 # 📱 Orderscape  
 Effortlessly reserve meals, drinks, and desserts at the STI Canteen!  
 
+
 ## 📝 Project Overview  
 The **STI Canteen** faces challenges in efficiently serving meals to a large number of students and teachers. Long queues during break periods result in wasted time, missed meals, and compromised safety protocols. To address this, we created **Orderscape**, a user-friendly application designed to:  
 - Reduce waiting times.  
