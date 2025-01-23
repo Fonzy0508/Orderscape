@@ -12,7 +12,6 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 **Orderscape** ensures timely meals while maintaining health and safety regulations, making school life more productive and enjoyable.  
 
 ![319303728_1761440417564364_6398826655484515487_n](https://github.com/user-attachments/assets/50fd4d90-b937-407c-90f4-9a4a8a55bac6)
-[![Demo Video]([](https://github.com/user-attachments/assets/9e45c5de-e2c1-4db0-994d-c9265fa438da))]([https://www.youtube.com/watch?v=your-video-id](https://github.com/user-attachments/assets/22682447-ab40-4df3-a649-e38c639dc9c9))
 ---
 
 ## 🌟 Key Features  
@@ -52,7 +51,7 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 ## ⚙️ Installation Instructions  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/orderscape.git  
+   git clone [https://github.com/your-username/orderscape.git ](https://github.com/Fonzy0508/Orderscape.git) 
 
 
 
