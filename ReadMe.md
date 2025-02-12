@@ -26,10 +26,9 @@ The **STI Canteen** faces challenges in efficiently serving meals to a large num
 ---
 
 ## 🛠️ Technologies Used  
-- **Frontend**: [ReactJS / Flutter]  
-- **Backend**: [Node.js / Express / PHP]  
-- **Database**: [MySQL / MongoDB]  
-- **Deployment**: [Firebase / Vercel]  
+- **Frontend**: [ReactJS]  
+- **Backend**: [PHP]  
+- **Database**: [MySQL]   
 
 ---
 
